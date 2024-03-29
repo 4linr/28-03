@@ -1,0 +1,16 @@
+body{
+    background-color: #ff99ff;
+    text-align: center;
+
+}
+
+p{color: black;
+font-size: medium;
+text-align: center;
+
+}
+img{width: 30%;
+    height: auto;
+    border-radius: 40%;
+    box-shadow: 0 0 10px black;
+}
